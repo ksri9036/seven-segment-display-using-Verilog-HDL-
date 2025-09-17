@@ -93,7 +93,8 @@ endmodule
 ```
 ## Simulated Output
 
-<img width="752" height="470" alt="image" src="https://github.com/user-attachments/assets/f8a1bc79-8643-466b-80d9-8e7cce3bad81" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f743110f-0826-4776-9f70-e012989d578b" />
+
 
 ---
 
